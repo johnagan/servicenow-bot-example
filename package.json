@@ -1,0 +1,30 @@
+{
+  "name": "servicenow-bot-example",
+  "version": "1.0.0",
+  "description": "A ServiceNow Bot example for Slack",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "servicenow",
+    "slack",
+    "bot",
+    "integration",
+    "example",
+    "tutorial"
+  ],
+  "repository": {
+    "type": "git",
+    "url" : "https://github.com/johnagan/servicenow-bot-example.git"
+  },
+  "bugs": {
+    "url": "https://github.com/johnagan/servicenow-bot-example/issues"
+  },
+  "author": "John Agan <jagan@slack-corp.com>",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.14.0",
+    "express": "^4.14.0",
+    "moment": "^2.15.1"
+  }
+}
