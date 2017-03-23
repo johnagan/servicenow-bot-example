@@ -42,3 +42,6 @@ Variable | Value | Description
 ```
 npm start
 ```
+
+## Installing
+Once the server is started, you will need to install the App on Slack to use it. To do so, navigate to *[your url]*/slack
